@@ -3,7 +3,9 @@
 ## Project Description
 
 This CPU Scheduler project is a comprehensive web application designed to evaluate and compare various CPU scheduling algorithms. The primary goal is to determine the most optimal algorithm for a given set of processes based on key performance metrics. The project includes a backend written in C++ and a frontend utilizing HTML, JavaScript, and CSS, with visualizations powered by Google Charts and Chart.js. The project provides an interactive interface to visualize CPU scheduling through Gantt and Timeline charts, compare different algorithms, and simulate the scheduling process with animations. We display various metrics and visualizations and finally suggest the best Scheduling algorithm based on an efficient ranking algorithm.
-Please refer to the comprehensive documentation "CPU_Scheduler_Documentation.pdf" for complete details on the ideation and implementation of the project. It also includes snippets of the front end in action.
+
+
+Please refer to the comprehensive documentation **"CPU_Scheduler_Documentation.pdf"** for complete details on the ideation and implementation of the project. It also includes snippets of the front end in action.
 
 ## How to Run the Project
 
